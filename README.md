@@ -22,9 +22,13 @@ A list of NLP competitions, including solutions.
 
 1. [“达观杯”文本智能处理挑战赛]([https://www.dcjingsai.com/common/cmpt/%E2%80%9C%E8%BE%BE%E8%A7%82%E6%9D%AF%E2%80%9D%E6%96%87%E6%9C%AC%E6%99%BA%E8%83%BD%E5%A4%84%E7%90%86%E6%8C%91%E6%88%98%E8%B5%9B_%E8%B5%9B%E4%BD%93%E4%B8%8E%E6%95%B0%E6%8D%AE.html](https://www.dcjingsai.com/common/cmpt/"达观杯"文本智能处理挑战赛_赛体与数据.html))
 
-   > (Rank 1) [2018-DC-“达观杯”文本智能处理挑战赛：冠军 (1st/3131)](https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess)
+   > [TOP10 答辩PPT 汇总]()
    >
-   > (Rank 4)[“达观杯”挑战赛：单模型带你上前10](https://zhuanlan.zhihu.com/p/52461173)
+   > (Rank 01) [2018-DC-“达观杯”文本智能处理挑战赛：冠军 (1st/3131)](https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess)
+   >
+   > (Rank 04)[“达观杯”挑战赛：单模型带你上前10](https://zhuanlan.zhihu.com/p/52461173), [Github](https://github.com/yuquanle/2018-daguan-competition-rank4)
+   >
+   > (Rank 10)[“达观杯”文本分类挑战赛Top10经验分享](https://zhuanlan.zhihu.com/p/45391378), [Github](https://github.com/moneyDboat/data_grand)
 
 
 
