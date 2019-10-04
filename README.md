@@ -24,19 +24,19 @@ A list of NLP competitions, including solutions.
 
    > [TOP10 答辩PPT 汇总](https://github.com/zhanlaoban/NLP_competitions/blob/master/%E2%80%9C%E8%BE%BE%E8%A7%82%E6%9D%AF%E2%80%9D%E6%96%87%E6%9C%AC%E6%99%BA%E8%83%BD%E5%A4%84%E7%90%86%E6%8C%91%E6%88%98%E8%B5%9B/%E8%BE%BE%E8%A7%82%E6%9D%AF%E5%8D%81%E5%BC%BA%E5%88%86%E4%BA%AB%E6%B1%87%E6%80%BBppt.pdf)
    >
-   > (Rank 01) [2018-DC-“达观杯”文本智能处理挑战赛：冠军 (1st/3131)](https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess)
+   > (Rank 01) [2018-DC-“达观杯”文本智能处理挑战赛：冠军 (1st/3131)](https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess)，作者没有开源相关代码，只有模型介绍的PPT
    >
-   > (Rank 02) [Github](https://github.com/CortexFoundation/-)
+   > (Rank 02) [Github](https://github.com/CortexFoundation/-) 仅代码，无任何说明
    >
    > (Rank 04)[“达观杯”挑战赛：单模型带你上前10](https://zhuanlan.zhihu.com/p/52461173),	[Github(仅一个单模型代码)](https://github.com/yuquanle/2018-daguan-competition-rank4)
    >
-   > (Rank 10)[“达观杯”文本分类挑战赛Top10经验分享](https://zhuanlan.zhihu.com/p/45391378),	[Github](https://github.com/moneyDboat/data_grand)
+   > (Rank 10)[“达观杯”文本分类挑战赛Top10经验分享](https://zhuanlan.zhihu.com/p/45391378),	[Github](https://github.com/moneyDboat/data_grand) 概率等权重融合
    >
-   > (Rank 11) **DaGuan_TextClassification_Rank11** [Github](https://github.com/TianyuZhuuu/DaGuan_TextClassification_Rank11) 使用了stacking融合
+   > (Rank 11) **DaGuan_TextClassification_Rank11** [Github](https://github.com/TianyuZhuuu/DaGuan_TextClassification_Rank11) stacking融合
    >
-   > (Rank 18) **daguan-classify-2018** [Github](https://github.com/nlpjoe/daguan-classify-2018)
+   > (Rank 18) **daguan-classify-2018** [Github](https://github.com/nlpjoe/daguan-classify-2018) stacking融合
    >
-   > (Rank Unknow) **TextClassificationImplement** [Github](https://github.com/MLjian/TextClassificationImplement)
+   > (Rank Unknow) **TextClassificationImplement** [Github](https://github.com/MLjian/TextClassificationImplement) lda/lsa/doc2vec三种特征进行特征融合
    >
    > (Rank Unknow) **datagrand-text-classification** [Github](https://github.com/Genpeng/datagrand-text-classification)
    >
