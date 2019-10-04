@@ -26,7 +26,7 @@ A list of NLP competitions, including solutions.
    >
    > (Rank 01) [2018-DC-“达观杯”文本智能处理挑战赛：冠军 (1st/3131)](https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess)，作者没有开源相关代码，只有模型介绍的PPT
    >
-   > (Rank 02) [Github](https://github.com/CortexFoundation/-) 仅代码，无任何说明
+   > (Rank 02) [Github](https://github.com/CortexFoundation/-) stacking融合
    >
    > (Rank 04)[“达观杯”挑战赛：单模型带你上前10](https://zhuanlan.zhihu.com/p/52461173),	[Github(仅一个单模型代码)](https://github.com/yuquanle/2018-daguan-competition-rank4)
    >
@@ -38,9 +38,9 @@ A list of NLP competitions, including solutions.
    >
    > (Rank Unknow) **TextClassificationImplement** [Github](https://github.com/MLjian/TextClassificationImplement) lda/lsa/doc2vec三种特征进行特征融合
    >
-   > (Rank Unknow) **datagrand-text-classification** [Github](https://github.com/Genpeng/datagrand-text-classification)
+   > (Rank Unknow) **datagrand-text-classification** [Github](https://github.com/Genpeng/datagrand-text-classification) 好像没有提到融合
    >
-   > (Rank Unknow) **daguan** [Github](https://github.com/yanqiangmiffy/daguan)
+   > (Rank Unknow) **daguan** [Github](https://github.com/yanqiangmiffy/daguan) 好像没有提到融合
 
 
 
