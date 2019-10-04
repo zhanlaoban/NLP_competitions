@@ -26,9 +26,21 @@ A list of NLP competitions, including solutions.
    >
    > (Rank 01) [2018-DC-“达观杯”文本智能处理挑战赛：冠军 (1st/3131)](https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess)
    >
-   > (Rank 04)[“达观杯”挑战赛：单模型带你上前10](https://zhuanlan.zhihu.com/p/52461173), [Github](https://github.com/yuquanle/2018-daguan-competition-rank4)
+   > (Rank 02) [Github](https://github.com/CortexFoundation/-)
    >
-   > (Rank 10)[“达观杯”文本分类挑战赛Top10经验分享](https://zhuanlan.zhihu.com/p/45391378), [Github](https://github.com/moneyDboat/data_grand)
+   > (Rank 04)[“达观杯”挑战赛：单模型带你上前10](https://zhuanlan.zhihu.com/p/52461173),	[Github(仅一个单模型代码)](https://github.com/yuquanle/2018-daguan-competition-rank4)
+   >
+   > (Rank 10)[“达观杯”文本分类挑战赛Top10经验分享](https://zhuanlan.zhihu.com/p/45391378),	[Github](https://github.com/moneyDboat/data_grand)
+   >
+   > (Rank 11) **DaGuan_TextClassification_Rank11** [Github](https://github.com/TianyuZhuuu/DaGuan_TextClassification_Rank11) 使用了stacking融合
+   >
+   > (Rank 18) **daguan-classify-2018** [Github](https://github.com/nlpjoe/daguan-classify-2018)
+   >
+   > (Rank Unknow) **TextClassificationImplement** [Github](https://github.com/MLjian/TextClassificationImplement)
+   >
+   > (Rank Unknow) **datagrand-text-classification** [Github](https://github.com/Genpeng/datagrand-text-classification)
+   >
+   > (Rank Unknow) **daguan** [Github](https://github.com/yanqiangmiffy/daguan)
 
 
 
