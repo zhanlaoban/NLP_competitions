@@ -11,11 +11,17 @@ A list of NLP competitions, including solutions.
 
 1. [互联网新闻情感分析](https://www.datafountain.cn/competitions/350)
 
-   > processing
+   > (Rank 01) [CCF BDCI 2019 互联网新闻情感分析 复赛top1解决方案](https://github.com/cxy229/BDCI2019-SENTIMENT-CLASSIFICATION)
+   >
+   > (Rank 08) [CCF BDCI 2019 互联网新闻情感分析 复赛top8 代码](https://github.com/zhanlaoban/CCF_BDCI_2019_datafountain350)
+   >
+   > (Rank 初赛A榜4/2735, 复赛1%) [TextClassify](https://github.com/linhaow/TextClassify)
+   >
+   > (Baseline) [CCF-BDCI-Sentiment-Analysis-Baseline](https://github.com/guoday/CCF-BDCI-Sentiment-Analysis-Baseline)
 
 2. [智源&计算所-互联网虚假新闻检测挑战赛](https://www.biendata.com/competition/falsenews/)
 
-   > processing
+   > (Rank 01)[基于BERT和CNN的多模型虚假新闻分类](https://www.biendata.com/models/category/3529/L_notebook/)
    
 
 ### 2018
@@ -29,6 +35,8 @@ A list of NLP competitions, including solutions.
    > (Rank 02) [Github](https://github.com/CortexFoundation/-) stacking融合
    >
    > (Rank 04)[“达观杯”挑战赛：单模型带你上前10](https://zhuanlan.zhihu.com/p/52461173),	[Github(仅一个单模型代码)](https://github.com/yuquanle/2018-daguan-competition-rank4)
+   >
+   > (Rank 08) [Github](https://github.com/Rowchen/Text-classifier)
    >
    > (Rank 10)[“达观杯”文本分类挑战赛Top10经验分享](https://zhuanlan.zhihu.com/p/45391378),	[Github](https://github.com/moneyDboat/data_grand) 概率等权重融合
    >
@@ -60,4 +68,4 @@ A list of NLP competitions, including solutions.
 
 1. [“达观杯”文本智能信息抽取挑战赛](https://biendata.com/competition/datagrand/data/?source=zhihu)
 
-   > processing
+   > (Rank 07) [Github](https://github.com/cdjasonj/datagrand)
