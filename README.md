@@ -58,7 +58,15 @@ A list of NLP competitions, including solutions.
 
 1. [互联网金融新实体发现](https://www.datafountain.cn/competitions/361)
 
-   > processing
+   > (Rank 01) https://mp.weixin.qq.com/s/SgkQB7t0j2_kqHeotspHBQ
+   >
+   > (Rank 02) https://zhuanlan.zhihu.com/p/100884995
+   >
+   > (Rank 04) https://github.com/rebornZH/2019-CCF-BDCI-NLP
+   >
+   > (Rank 07) https://github.com/houking-can/BDCI2019-NER
+   >
+   > (Rank 09) https://github.com/gaozhanfire/CCF-BDCI2019_Entity_Discovery
 
 
 
